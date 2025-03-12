@@ -1,4 +1,4 @@
-This notebook is an Exploratory Data Analysis (EDA) and "Data Cleaning" project focused on a dataset related to meat production ,import andexport  data from the OECD-FAO for the years 2021-2030. The dataset contains information about various agricultural commodities, their production, consumption, exports, and imports across different countries. The notebook follows a structured approach to analyze and clean the data, ensuring it is ready for further analysis or modeling.
+This notebook is an Exploratory Data Analysis (EDA) and "Data Cleaning" project focused on a dataset related to meat production ,import and export  data from the OECD-FAO for the years 2021-2030. The dataset contains information about various agricultural commodities, their production, consumption, exports, and imports across different countries. The notebook follows a structured approach to analyze and clean the data, ensuring it is ready for further analysis or modeling.
 
  Key Steps in the Notebook:
 
